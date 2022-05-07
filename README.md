@@ -1,5 +1,4 @@
 # Emon-Skripsi
-Jokian Skripsi Lagi
 
 Auto Connect with WiFiManager
 Logging to SD Card and Thingspeak
